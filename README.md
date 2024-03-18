@@ -1,10 +1,7 @@
-"# ai_for_math" 
-"# afm_code" 
-"# afm_code" 
-"# afm_publick" 
-"# dashlite-html-template" 
-"# afm_publick" 
-"# afm_publick" 
-"# afm_publick" 
-"# afm_publick" 
-"# afm.sadatsch.ir" 
+## سلام خدمت تمامی داوران جشنواره خوارزمی
+لینک پروژه : afm.sadatsch.ir
+اطلاعات حساب مدیریتی پروژه : 
+username : 1130899098
+pass : 1130899098
+
+
